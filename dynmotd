@@ -1,4 +1,4 @@
-
+NOWA LINIJKA KODU
 ADMIN='root'
 
 USER=`whoami`
