@@ -1,4 +1,4 @@
-NOWA LINIJKA KODU
+ALBO NIE
 ADMIN='root'
 
 USER=`whoami`
